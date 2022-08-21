@@ -1,1 +1,1 @@
-# Machine-Learning-Industry-Aplications
+# Machine-Learning-Industry-Applications
